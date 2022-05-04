@@ -1,9 +1,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jesus Rosario
 
-- 🔭 I’m currently working on React.JS and Next.JS
+- 🔭 I’m currently working on Next.JS
 - 🌐 Polfolio site https://jessusdev.com
-- 🌱 I’m currently improving My Development Stack.
+- 🌱 I’m currently improving my development stack.
 - 💬 Ask me about modern web technologies
 - 📫 How to reach me: https://www.linkedin.com/in/jesus-rosario
 
