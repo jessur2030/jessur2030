@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Next.JS
 - 🌐 Polfolio site https://jessusdev.com
-- 🌱 I’m currently improving my development stack.
+- 🌱 I’m currently improving my development stack
 - 💬 Ask me about modern web technologies
 - 📫 How to reach me: https://www.linkedin.com/in/jesus-rosario
 
