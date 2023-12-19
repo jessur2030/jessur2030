@@ -5,7 +5,6 @@ I'm a software engineer with a commitment to excellence and a passion for levera
 ## Engineering with Purpose and Passion 🚀:
 
 - Crafting RESTful APIs and interactive web applications using JavaScript, TypeScript, Node.js, Fastify, Express.js, PHP, and a suite of AWS and Azure services.
-- Designing and architecting database systems with MySQL, enhancing functionality with ORMs like Prisma and Drizzle ORM.
 - Deploying scalable cloud infrastructures using AWS and Azure, optimizing with services such as Azure AD B2C, API Gateway, Blob Storage, and Azure Functions.
 
 ## Collaboration and Innovation 🤝:
