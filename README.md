@@ -11,7 +11,7 @@ As a Software Engineer, I specialize in creating robust backend systems, RESTful
 
 ### **Proficiency in Technology Stack 🌟**
 
-- **Skilled in**: JavaScript, TypeScript, Node.js, PHP, MySQL, React.js, AWS (EC2, S3, RDS, ECS), HTML, CSS, Azure (AD B2C, API Management), Docker, Redis, and Linux. Currently expanding my skills in Go.
+- **Skilled in**: JavaScript, TypeScript, Node.js, PHP, MySQL, React.js, AWS (EC2, S3, RDS, ECS), HTML, CSS, Docker, Redis, and Linux. Currently expanding my skills in Go.
 
 ### **Broadening Horizons: Beyond Code 🚀**
 
