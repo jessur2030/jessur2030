@@ -1,6 +1,9 @@
 **Hello! I'm Jesus Rosario 👋**
 
-As a Software Engineer, I specialize in creating robust backend systems, RESTful APIs, and dynamic web applications. I am committed to delivering quality and practical solutions, leveraging modern technologies to tackle complex challenges. My focus is on building efficient, scalable, and user-friendly software that makes a real and positive impact.
+Software Engineer with a strong background in developing scalable backend systems, RESTful APIs, and
+dynamic web applications. Excels in a collaborative environment, demonstrating strong proficiency in a
+broad technical skill set including JavaScript, TypeScript, Node.js, PHP, React.js, and AWS cloud services.
+Focused on improving user experience and driving projects that significantly enhance business impact.
 
 ---
 
@@ -11,7 +14,7 @@ As a Software Engineer, I specialize in creating robust backend systems, RESTful
 
 ### **Proficiency in Technology Stack 🌟**
 
-- **Skilled in**: JavaScript, TypeScript, Node.js, PHP, MySQL, React.js, AWS (EC2, S3, RDS, ECS), HTML, CSS, Docker, Redis, and Linux. Currently expanding my skills in Go.
+- **Skilled in**: JavaScript, TypeScript, Node.js, PHP, MySQL, React.js, AWS (EC2, Lambda, S3, RDS, ECS), HTML, CSS, Docker, Redis, and Linux. Currently expanding my skills in Go.
 
 ### **Broadening Horizons: Beyond Code 🚀**
 
